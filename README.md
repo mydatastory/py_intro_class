@@ -8,6 +8,7 @@ https://creativecommons.org/licenses/by/4.0/. The original Software Carpentry ep
 [python-novice-gapminder](https://github.com/swcarpentry/python-novice-gapminder)
 
 ## Notes
+- Is Python [interpreted or compiled](https://nedbatchelder.com/blog/201803/is_python_interpreted_or_compiled_yes.html)
 - The Jupyter notebooks are rendered using [nbviewer](https://nbviewer.jupyter.org/).
 - Matt Gitzendanner's Python class materials can be found [here](https://github.com/CompTools/Class_Files).
 - Mindy McAdams' Python class materials can be found [here](https://github.com/macloo/python-beginners).
