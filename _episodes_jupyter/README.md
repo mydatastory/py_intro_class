@@ -1,5 +1,3 @@
-[![Test](../fig/JupyterNotebooks.PNG)](https://nbviewer.jupyter.org/github/mydatastory/py_intro_class/blob/master/_episodes_jupyter/casey.ipynb)
-
 # Introduction to Python
 [![Run Quit](../fig/JupyterNotebooks.PNG)](https://nbviewer.jupyter.org/github/mydatastory/py_intro_class/blob/master/_episodes_jupyter/run_quit.ipynb)
 [![Variables](../fig/Variables.PNG)](https://nbviewer.jupyter.org/github/mydatastory/py_intro_class/blob/master/_episodes_jupyter/variables.ipynb)
