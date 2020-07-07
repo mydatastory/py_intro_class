@@ -1,0 +1,1 @@
+list('some string') # "splits" a string into a list of its characters. `x-y`
