@@ -9,6 +9,7 @@
 | Loops         | *Python for Everybody*  | 5: Iteration                              |
 | Functions     | *Python for Everybody*  | 4: Functions                              |
 | Conditionals  | *Python for Everybody*  | 3: Conditional execution                  |
+| Strings       | *Python for Everybody*  | 6: Strings                                |
   
 
 ## Introduction to Python
