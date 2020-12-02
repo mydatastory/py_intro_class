@@ -1,4 +1,4 @@
-## Introduction to Python (Assigned Reading)
+## Introduction to Python (Reading Assignments)
 
 | Module        | Reading                                                                     |
 |---------------|-----------------------------------------------------------------------------|
