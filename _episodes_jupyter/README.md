@@ -1,4 +1,19 @@
-# Introduction to Python
+## Introduction to Python (Assigned Reading)
+- Pre-Reading
+  - *Python for Everybody* -- Chapter 1: Why Should you Learn to Write Programs
+- Variables
+  - *Python for Everybody* -- Chapter 2: Variables, expressions, and statements
+- Conditionals
+  - *Python for Everybody* -- Chapter 3: Conditional execution
+- Functions
+  - *Python for Everybody* -- Chapter 4: Functions
+- Loops
+  - *Python for Everybody* -- Chapter 5: Iteration
+- Lists
+  - *Python for Everybody* -- Chapter 8: Lists
+  
+
+## Introduction to Python
 [![Run Quit](../fig/JupyterNotebooks.PNG)](https://nbviewer.jupyter.org/github/mydatastory/py_intro_class/blob/master/_episodes_jupyter/run_quit.ipynb)
 [![Variables](../fig/Variables.PNG)](https://nbviewer.jupyter.org/github/mydatastory/py_intro_class/blob/master/_episodes_jupyter/variables.ipynb)
 [![Type Conversions](../fig/TypeConversions.PNG)](https://nbviewer.jupyter.org/github/mydatastory/py_intro_class/blob/master/_episodes_jupyter/types_conversions.ipynb)
