@@ -1,14 +1,14 @@
 ## Introduction to Python (Reading Assignments)
 
-| Module        | Reading                                                                     |
+| Module        | Text                    | Chapter                                           |
 |---------------|-----------------------------------------------------------------------------|
-| Pre-Reading   | *Python for Everybody* -- Chapter 1: Why Should you Learn to Write Programs |
-| Variables     | *Python for Everybody* -- Chapter 2: Variables, expressions, and statements |
-| Tabular Data  | *Python for Everybody* -- Chapter 7: Reading files                          |
-| Lists         | *Python for Everybody* -- Chapter 8: Lists                                  |
-| Loops         | *Python for Everybody* -- Chapter 5: Iteration                              |
-| Functions     | *Python for Everybody* -- Chapter 4: Functions                              |
-| Conditionals  | *Python for Everybody* -- Chapter 3: Conditional execution                  |
+| Pre-Reading   | *Python for Everybody*  | Chapter 1: Why Should you Learn to Write Programs |
+| Variables     | *Python for Everybody*  | Chapter 2: Variables, expressions, and statements |
+| Tabular Data  | *Python for Everybody*  | Chapter 7: Reading files                          |
+| Lists         | *Python for Everybody*  | Chapter 8: Lists                                  |
+| Loops         | *Python for Everybody*  | Chapter 5: Iteration                              |
+| Functions     | *Python for Everybody*  | Chapter 4: Functions                              |
+| Conditionals  | *Python for Everybody*  | Chapter 3: Conditional execution                  |
   
 
 ## Introduction to Python
