@@ -2,7 +2,7 @@
 
 | Module        | Reading                                                                     |
 |---------------|-----------------------------------------------------------------------------|
-| Pre-Reading   | *Python for Everybody* Chapter 1: Why Should you Learn to Write Programs    |
+| Pre-Reading   | *Python for Everybody* -- Chapter 1: Why Should you Learn to Write Programs |
 | Variables     | *Python for Everybody* -- Chapter 2: Variables, expressions, and statements |
 | Conditionals  | *Python for Everybody* -- Chapter 3: Conditional execution                  |
 | Functions     | *Python for Everybody* -- Chapter 4: Functions                              |
