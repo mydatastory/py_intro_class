@@ -1,1 +1,1 @@
-This folder contains Jupyter Notebooks created by Greg Harvey.  We attempted to duplicate the *Intro to R* learning experience but ran into a variety of issues and decided to go back to the base Carpentry sequence.  Some of the work done here, however, might be useful in future learning experiences.
+This folder contains archived items.
