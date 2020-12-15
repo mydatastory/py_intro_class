@@ -7,6 +7,10 @@ https://creativecommons.org/licenses/by/4.0/. The original Software Carpentry ep
 ## Original Software Carpentry Course
 [python-novice-gapminder](https://github.com/swcarpentry/python-novice-gapminder)
 
+## Running the Nvidia Worksheets on HiperGator
+
+Within the OnDemand application, click on the Interactive Apps dropdown and select Jupyter Notebook in the Servers section.  Then fill out the Jupyter Notebook slurm submission form as follows:  select 'gpu' from the dropdown menu for the *Cluster partition* field.  And in the *Generic Resource Request* field, enter 'gpu:geforce:1'.
+
 ## Notes
 - Is Python [interpreted or compiled](https://nedbatchelder.com/blog/201803/is_python_interpreted_or_compiled_yes.html)
 - The Jupyter notebooks are rendered using [nbviewer](https://nbviewer.jupyter.org/).
