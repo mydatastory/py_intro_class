@@ -1,4 +1,4 @@
-## Introduction to Python
+## Python 4 AI
 
 The episodes in this course are derived from work that is Copyrighted © by Software Carpentry.  Additional information can be
 found at: http://software-carpentry.org/.  The Creative Commons license which governs this work is located at:
