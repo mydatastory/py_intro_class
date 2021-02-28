@@ -1,5 +1,18 @@
+## Py4AI (Reading Assignments)
 
-## Introduction to Python
+| Module        | Text                    | Chapter                                   |
+|---------------|-------------------------|-------------------------------------------|
+| Pre-Reading   | *Python for Everybody*  | 1: Why Should you Learn to Write Programs |
+| Variables     | *Python for Everybody*  | 2: Variables, expressions, and statements |
+| Tabular Data  | *Python for Everybody*  | 7: Reading files                          |
+| Lists         | *Python for Everybody*  | 8: Lists                                  |
+| Loops         | *Python for Everybody*  | 5: Iteration                              |
+| Functions     | *Python for Everybody*  | 4: Functions                              |
+| Conditionals  | *Python for Everybody*  | 3: Conditional execution                  |
+| Strings       | *Python for Everybody*  | 6: Strings                                |
+
+
+## Py4AI
 [![Run Quit](../fig/JupyterNotebooks.PNG)](https://nbviewer.jupyter.org/github/mydatastory/py_intro_class/blob/master/_episodes_rapids/010_environment_panda.ipynb)
 [![Variables](../fig/Variables.PNG)](https://nbviewer.jupyter.org/github/mydatastory/py_intro_class/blob/master/_episodes_rapids/020_variables.ipynb)
 [![Type Conversions](../fig/TypeConversions.PNG)](https://nbviewer.jupyter.org/github/mydatastory/py_intro_class/blob/master/_episodes_rapids/030_types_conversions.ipynb)
